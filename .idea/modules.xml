@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignSupportLibraryDemo.iml" filepath="$PROJECT_DIR$/DesignSupportLibraryDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignSupportLibraryDemo/DesignSupportLibraryDemo-DesignSupportLibraryDemo.iml" filepath="$PROJECT_DIR$/DesignSupportLibraryDemo/DesignSupportLibraryDemo-DesignSupportLibraryDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZhihuDemo/ZhihuDemo.iml" filepath="$PROJECT_DIR$/ZhihuDemo/ZhihuDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mddemo/mddemo.iml" filepath="$PROJECT_DIR$/mddemo/mddemo.iml" />
+    </modules>
+  </component>
+</project>

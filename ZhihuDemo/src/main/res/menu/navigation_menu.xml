@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/shouye"
+            android:icon="@drawable/shouye"
+            android:title="首页"/>
+        <item
+            android:id="@+id/faxian"
+            android:icon="@drawable/faxian"
+            android:title="发现"/>
+        <item
+            android:id="@+id/guanzhu"
+            android:icon="@drawable/guanzhu"
+            android:title="关注"/>
+        <item
+            android:id="@+id/shoucang"
+            android:icon="@drawable/shoucang"
+            android:title="收藏"/>
+    </group>
+
+    <group android:id="@+id/group2">
+        <item android:title="切换主题"/>
+        <item android:title="设置"/>
+    </group>
+
+</menu>

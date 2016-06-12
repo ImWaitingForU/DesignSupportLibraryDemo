@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/sousuo"
+        android:icon="@mipmap/sousuo"
+        android:title="搜索"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/lingdang"
+        android:icon="@mipmap/lingdang"
+        android:title="铃铛"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/setting"
+        android:title="设置"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/guanyu"
+        android:title="关于"
+        app:showAsAction="never"/>
+
+
+</menu>
